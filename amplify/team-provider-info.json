@@ -1,0 +1,14 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-coffeecustomer-dev-203407-authRole",
+      "UnauthRoleArn": "arn:aws:iam::936471194299:role/amplify-coffeecustomer-dev-203407-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::936471194299:role/amplify-coffeecustomer-dev-203407-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-coffeecustomer-dev-203407-deployment",
+      "UnauthRoleName": "amplify-coffeecustomer-dev-203407-unauthRole",
+      "StackName": "amplify-coffeecustomer-dev-203407",
+      "StackId": "arn:aws:cloudformation:us-east-1:936471194299:stack/amplify-coffeecustomer-dev-203407/9441e310-96ac-11ec-be4e-1298575c22b3"
+    }
+  }
+}
